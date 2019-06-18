@@ -6,6 +6,6 @@ public class test1{
     public static void main(String []args){
         Protection ob1=new Protection();
         Derived ob2 =new Derived();
-       p1.SamePackage ob3= SamePackage();
+       //SamePackage ob3= SamePackage();
     }
 }
